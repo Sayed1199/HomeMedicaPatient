@@ -1,16 +1,10 @@
-# homemedica_patient
+# HomeMedica Paient
 
-A new Flutter project.
+A Flutter mobile App implementing my api https://github.com/Sayed1199/HomeMedicaAPI
+also implements The Infermedica API for medical diagnosis.
+suuports a medical ChatBot, an ability to use any of the ML Models via The API, book meetings, video Calls using The Agora sdk(only missing the token generator server i will build it soon),
+Google and Facebook Authentication with Firebase.
+Real time chatting with a desktop app (HomeMedica Hospital) using Cloud Firestore.
+supports local notifications and razorPay gateway for payments.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
