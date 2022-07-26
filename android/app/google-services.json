@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "463119917493",
+    "project_id": "homemedica-eaa1f",
+    "storage_bucket": "homemedica-eaa1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463119917493:android:03ae229ad793f37052f9fc",
+        "android_client_info": {
+          "package_name": "com.example.homemedica_patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463119917493-f0bj9tth9t18la70233jctorp1f9p959.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homemedica_patient",
+            "certificate_hash": "92cc44b9834692a69032e348781be68aaede0ead"
+          }
+        },
+        {
+          "client_id": "463119917493-g9phf8r2c0fbiejmhslg4rtiolcbvo4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVmfX1WvYWTMczG6FkQBUTdCI1K9HWuTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463119917493-g9phf8r2c0fbiejmhslg4rtiolcbvo4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeMedica</string>
+    <string name="facebook_app_id">340389771430986</string>
+    <string name="fb_login_protocol_scheme">fb340389771430986</string>
+    <string name="facebook_client_token">9e865763dea439a02568c65b68a25be0</string>
+
+</resources>
+
